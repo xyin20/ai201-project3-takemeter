@@ -178,3 +178,7 @@ I used Claude to help draft the planning.md structure and the README. Claude pro
 | `Copy_of_ai201_project3_takemeter_starter_clean.ipynb` | Training notebook with all outputs |
 | `confusion_matrix.png` | Visual confusion matrix from Section 4 of the notebook |
 | `evaluation_results.json` | Machine-readable results for both models |
+
+## demo video link
+
+https://www.loom.com/share/3b7ab70904d44a779cda5c26691ad277
